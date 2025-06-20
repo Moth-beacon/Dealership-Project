@@ -42,6 +42,13 @@ Here's how the program creates a random VIN for each new vehicle:
 
 ![Screenshot 2025-06-19 223308.png](Screenshot%202025-06-19%20223308.png)
 
+## Home Screen
+
+![Home_Screen.png](Home_Screen.png)
+
+## Error for calc
+
+![Error.png](Error.png)
 
 ## Author Info
 
